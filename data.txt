@@ -6,3 +6,7 @@ Favorite Color: Blue
 Name: Jaime
 Age:31
 Favotite Color: Red
+
+Name: Andrea Bravo Gomez
+Age: 28
+Favotite Color: Pink
